@@ -1,4 +1,4 @@
-# Code-in-Place-Final-Project
+# Code in Place Final Project
 Final project for Stanford's Code in Place 2026
 
 According to the International Plant Protection Convention (IPPC), a quarantine plant pest is defined as a species that is invasive and not present or widely distributed in an area that can potentially cause severe economic losses and, for this reason, is officially controlled (Schrader and Unger, 2003). 
