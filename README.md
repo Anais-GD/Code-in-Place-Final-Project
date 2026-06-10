@@ -12,7 +12,7 @@ amplifying the risk of disease outbreaks in crops, forests, and other wild veget
 
 In Europe, plant health is governed by a phytosanitary regulatory framework that, among other things, classifies pests into quarantine and non-quarantine categories. Quarantine pests are those not yet established in a given territory, or present only in limited areas, whereas non-quarantine pests are those already established. Within quarantine pests, a specific subset is designated as 'priority pests' due to their particularly severe social, environmental, and economic consequences (Galvañ-Domenech, 2025). 
 
-It is within this regulatory context that ** this project proposes a game based on European phytosanitary legislation, in which players must first identify a given crop and then attempt to identify its associated quarantine pests and pathogens.**
+It is within this regulatory context that **this project proposes a game based on European phytosanitary legislation, in which players must first identify a given crop and then attempt to identify its associated quarantine pests and pathogens.**
 
 
 #Bibliography
