@@ -15,7 +15,7 @@ In Europe, plant health is governed by a phytosanitary regulatory framework that
 It is within this regulatory context that **this project proposes a game based on European phytosanitary legislation, in which players must first identify a given crop and then attempt to identify its associated quarantine pests and pathogens.**
 
 
-#Bibliography
+#Bibliography <br><br>
 Domenech, A. G. (2025). Prevention strategies against citrus black spot and Huanglongbing in the Mediterranean Basin [Doctoral dissertation, Universitat Politècnica de València]. https://riunet.upv.es/entities/publication/dbf6e398-c698-4ac8-b3af-d5e68fe2ed0a.
 
 Schrader, S., Graham, S., Campbell, R., Height, K., & Hawkes, G. (2024). Grower attitudes and practices toward area-wide management of cropping weeds in Australia. Land Use Policy, 137, 107001. https://doi.org/10.1016/j.landusepol.2023.107001
