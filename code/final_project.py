@@ -22,7 +22,7 @@ Singh, B. K., Delgado-Baquerizo, M., Egidi, E., Guirado, E., Leach, J. E., Liu, 
 
 Food and Agriculture Organization of the United Nations (FAO). (2021, June 2). Climate change will increase the risk of pest spread, which already destroys 40% of crop production. UN News. https://news.un.org/es/story/2021/06/1492762
 """
-
+#load the packages
 import tkinter as tk
 from PIL import Image, ImageTk
 import urllib.request
