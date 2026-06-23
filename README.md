@@ -16,11 +16,13 @@ It is within this regulatory context that **this project proposes a game based o
 
 
 #Bibliography <br><br>
-Domenech, A. G. (2025). Prevention strategies against citrus black spot and Huanglongbing in the Mediterranean Basin [Doctoral dissertation, Universitat Politècnica de València]. https://riunet.upv.es/entities/publication/dbf6e398-c698-4ac8-b3af-d5e68fe2ed0a.
+Galvañ-Domenech, A.  (2025). Prevention strategies against citrus black spot and Huanglongbing in the Mediterranean Basin [Doctoral dissertation, Universitat Politècnica de València]. https://riunet.upv.es/entities/publication/dbf6e398-c698-4ac8-b3af-d5e68fe2ed0a.
+
+Food and Agriculture Organization of the United Nations (FAO). (2021, June 2). Climate change will increase the risk of pest spread, which already destroys 40% of crop production. UN News. https://news.un.org/es/story/2021/06/1492762
 
 Schrader, S., Graham, S., Campbell, R., Height, K., & Hawkes, G. (2024). Grower attitudes and practices toward area-wide management of cropping weeds in Australia. Land Use Policy, 137, 107001. https://doi.org/10.1016/j.landusepol.2023.107001
 
 Singh, B. K., Delgado-Baquerizo, M., Egidi, E., Guirado, E., Leach, J. E., Liu, H., & Trivedi, P. (2023). Climate change impacts on plant pathogens, food security and paths forward. Nature Reviews Microbiology, 21(10), 640–656. https://doi.org/10.1038/s41579-023-00900-7
 
-Food and Agriculture Organization of the United Nations (FAO). (2021, June 2). Climate change will increase the risk of pest spread, which already destroys 40% of crop production. UN News. https://news.un.org/es/story/2021/06/1492762
+
 
